@@ -1,0 +1,26 @@
+{
+  "name": "NWEN304Ass2",
+  "version": "0.0.0",
+  "description": "Description",
+  "main": "quote.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/esta286286/NWEN304Ass2.git"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "author": "Esta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esta286286/NWEN304Ass2/issues"
+  },
+  "homepage": "https://github.com/esta286286/NWEN304Ass2",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^3.5.1"
+  }
+}
